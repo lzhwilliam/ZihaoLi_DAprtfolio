@@ -8,4 +8,4 @@ This is the repository of collection of Zihao Li's data analytics projects. most
 
 - ### Machine Learning Project
 
-  -[Bank fraud detection](): the purpose is to find the appropriate machine learning model for bank to detect fraud actions. used two types of machine learning methods, compared their performance metric side-by-side, and determine which one is the better one to go with.
+  - [Bank fraud detection](): the purpose is to find the appropriate machine learning model for bank to detect fraud actions. used two types of machine learning methods, compared their performance metric side-by-side, and determine which one is the better one to go with.
