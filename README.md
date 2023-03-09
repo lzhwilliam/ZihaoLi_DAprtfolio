@@ -8,4 +8,4 @@ This is the repository of collection of Zihao Li's data analytics projects. most
 
 - ### Machine Learning Project
 
-  - [Bank fraud detection](https://github.com/williamLIZIHAO/Data-Analytics-Portfolio/blob/main/Bank%20Campaign%20Analysis%20and%20Prediction%20(%20R%20)/Bank_marketing_campaigns%20(1).ipynb): the purpose is to find the appropriate machine learning model for bank to detect fraud actions. used two types of machine learning methods, compared their performance metric side-by-side, and determine which one is the better one to go with.
+  - Bank Campaign Analysis and Prediction ([PYTHON](https://github.com/williamLIZIHAO/Data-Analytics-Portfolio/blob/main/Bank%20Campaign%20Analysis%20and%20Prediction%20(%20PYTHON%20)/Bank_marketing_campaigns.ipynb)) ([R]()): the purpose is to find the appropriate machine learning model for bank to detect fraud actions. used two types of machine learning methods, compared their performance metric side-by-side, and determine which one is the better one to go with.
