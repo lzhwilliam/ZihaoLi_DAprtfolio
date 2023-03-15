@@ -14,4 +14,6 @@ This is the repository of collection of Zihao Li's data analytics projects. most
 
   - [Time Serise analysis](https://github.com/lzhwilliam/ZihaoLi_DAprtfolio/blob/main/Time%20Serise%20Analysis%20On%20Stock%20Market%20Data%20(%20Python%20)/stock_prediction.ipynb): Built a Recurrent Neural Network model that used to do time-serise analysis on the price of a stock. Created different network layers; examed accuracy through loss function and visual plot.
 
+- ### SQL Project
+
   - [San Francisco area criminal dataset analysis](https://github.com/lzhwilliam/ZihaoLi_DAprtfolio/blob/main/San%20Francisco%20Crime%20Dataset%20Analysis%20using%20PySpark%20(%20PYTHON%20)/SF%20crime%20analysis.ipynb): Utilized San Francisco governemnt collected dataset about chronical record of crime in every district. Imported into Databrick; utilized PySpark and SQL to extract and transfrom data to build visulizations for analysis.
