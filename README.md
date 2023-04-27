@@ -1,5 +1,7 @@
 # Data-Analytics-Portfolio
-This is the repository of collection of Zihao Li's data analytics projects. most of the projects are done by the purpose of academic, self-learning, and hobby, and presented in the form of python notebook, R markdown file, CSS, HTML, or published on the server(POWER BI, TABLEAU, etc) 
+This is the repository of collection of Zihao Li's data analytics projects. most of the projects are done by the purpose of academic, self-learning, and hobby, and presented in the form of python notebook, R markdown file(published in R pub), CSS, HTML, or published on the server(POWER BI, TABLEAU, etc) 
+
+#### The R portfolio is in this [link](https://rpubs.com/william_lizihao)
 
 ## Instructions for running python notebooks
 -- download python notebooks, run in jupyter notebook, VSCode, or Google Colab. 
@@ -20,3 +22,7 @@ This is the repository of collection of Zihao Li's data analytics projects. most
 - ### SQL Project
 
   - [San Francisco area criminal dataset analysis](https://github.com/lzhwilliam/ZihaoLi_DAprtfolio/blob/main/San%20Francisco%20Crime%20Dataset%20Analysis%20using%20PySpark%20(%20PYTHON%20)/SF%20crime%20analysis.ipynb): Utilized San Francisco governemnt collected dataset about chronical record of crime in every district. Imported into Databrick; utilized PySpark and SQL to extract and transfrom data to build visulizations for analysis.
+
+
+- ### Data Analysis & visualization project
+  - [Airline passenger satisfaction analysis](https://rpubs.com/william_lizihao/1033694):analyzed airline service based on satisfaction survey from the passengers. Created different groups based on different criteria; analyzed through visualizations and provided suggestion on improvements.
