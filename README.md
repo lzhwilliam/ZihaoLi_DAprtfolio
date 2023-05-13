@@ -18,6 +18,7 @@ This is the repository of collection of Zihao Li's data analytics projects. most
 
   - [Data related position's salary prediction](https://github.com/lzhwilliam/ZihaoLi_DAprtfolio/blob/main/Data%20Science%20Job%20Salaries%20Prediction%20And%20Analysis%20(%20PYTHON%20)/Data_Science_Job_Salaries_supervised_machine_learning.ipynb): examined features that have or may have affects on salary of a person that's working in a data-related position. created diffenert regression model to determine which is the best regarding prediction power. eventually, determined which factor have high effections on their salary.
 
+  - [Recommendation Engine - movie]():Examined different ways of recommender. created Recommenders based on weighted rating, content, User preference. 
 
 - ### SQL Project
 
